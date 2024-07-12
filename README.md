@@ -19,10 +19,6 @@
   <!-- - Twitter: [@yourtwitter](https://twitter.com/yourtwitter) -->
   <!-- - LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile) -->
 
-## 📊 GitHub ステータス
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yosukeOpendna&show_icons=true&theme=radical)
-
-## 🏆 トロフィー
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=yosukeOpendna)
