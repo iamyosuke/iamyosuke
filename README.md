@@ -1,16 +1,28 @@
-## Hi there 👋
+# はじめまして、Yosuke です！ 👋
 
 <!--
-**yosukeOpendna/yosukeOpendna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 私について
+- 🔭 現在、[現在の仕事や学習内容]に取り組んでいます。
+- 🌱 [学習中の技術やスキル]を学んでいます。
+- 👯 [コラボレーションしたいプロジェクトの種類]での協力を探しています。
+- 💬 [得意な分野や話したいトピック]について質問してください。
 
-Here are some ideas to get you started:
+## 🛠 技術スタック
+- [言語1]
+- [言語2]
+- [フレームワーク1]
+- [ツール1] -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+
+- GitHub: [@yosukeOpendna](https://github.com/yosukeOpendna)
+  <!-- - Twitter: [@yourtwitter](https://twitter.com/yourtwitter) -->
+  <!-- - LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile) -->
+
+## 📊 GitHub ステータス
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yosukeOpendna&show_icons=true&theme=radical)
+
+## 🏆 トロフィー
+
+![trophy](https://github-profile-trophy.vercel.app/?username=yosukeOpendna)
