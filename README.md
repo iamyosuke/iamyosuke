@@ -2,17 +2,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/8643c4c8-39bf-4fb0-ab2e-d4f5970ea787.svg)](https://wakatime.com/@8643c4c8-39bf-4fb0-ab2e-d4f5970ea787)
 
-<!-- ![Top Langs](https://github-readme-stats-tau-livid-19.vercel.app
-/api/top-langs/?username=yosukeOpendna&layout=compact&theme=radical) -->
-
 <p align="left">
     <img align="center" height="150px" src="https://github-readme-stats-tau-livid-19.vercel.app/api/top-langs/?username=yosukeOpendna&hide=css,scss,makefile,html&layout=compact&theme=radical">
-    <img align="center" height="150px" src="https://github-readme-stats-tau-livid-19.vercel.app/api?username=yosukeOpendna&count_private=true&show_icons=true&theme=radical">
+    <img align="center" height="150px" src="https://github-readme-stats-tau-livid-19.vercel.app/api?username=yosukeOpendna&count_private=true&show_icons=true&theme=radical&include_orgs=true">
 </p>
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=yosukeOpendna) -->
-
-![github-readme-stats](https://github-readme-stats-tau-livid-19.vercel.app
-/api/?username=yosukeOpendna)
 
 ## Skills
 
